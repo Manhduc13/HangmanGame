@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  Main.cpp
+  Menu.cpp
+  Word.cpp
+D:\C++\Data Structure\Hangman\Word.cpp(36,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\Data Structure\Hangman\Word.cpp(41,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Hangman.vcxproj -> D:\C++\Data Structure\ITP\x64\Debug\Hangman.exe
